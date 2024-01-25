@@ -7,6 +7,7 @@ Gem::Specification.new do |spec|
   spec.version = ModelAncestry::VERSION
   spec.authors = ["Marcos Chuquicondor"]
   spec.email = ["marcos@chuquicondor.com"]
+  spec.licenses = ['MIT']
 
   spec.summary = "Parent model logic."
   spec.description = "Gem to handle parent model logic."
